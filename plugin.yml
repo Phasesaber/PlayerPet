@@ -1,0 +1,7 @@
+name: PlayerPet
+main: com.phase.playerpet.main.PlayerPet
+version: v0.0.1
+description: Who needs boring pigs and creepers, when you could have Notch as a pet! 
+commands:
+  playerpet:
+    description: Main command!
